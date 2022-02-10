@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Project = () => {
+const Team = () => {
     return (
         <div 
         style={{
@@ -10,9 +10,9 @@ const Project = () => {
             height: '90vh'
             }}
         >
-            <h1>Projects</h1>
+            <h1>Teams</h1>
         </div>
     )
 }
 
-export default Project
+export default Team

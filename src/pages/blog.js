@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Skill = () => {
+const Blog = () => {
     return (
         <div 
         style={{
@@ -10,9 +10,9 @@ const Skill = () => {
             height: '90vh'
             }}
         >
-            <h1>Skills</h1>
+            <h1>Blogs</h1>
         </div>
     )
 }
 
-export default Skill
+export default Blog
